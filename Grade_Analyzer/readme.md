@@ -3,8 +3,6 @@
 ### Course: Programming for Problem Solving using Python
 
 
-
-
 This project helps analyze student marks easily.  
 It can take manual input or read from a CSV file, calculate average, median, highest, lowest marks, assign letter grades, and show pass/fail summary.
 
@@ -18,14 +16,17 @@ It can take manual input or read from a CSV file, calculate average, median, hig
 
 
 #### Sample CSV format:
-Rohit - 70.0	
-Akash - 66.0	
-Vivan -	50.0	
-Ritik - 78.0	
-Vijay -	77.0 	
+Aman- 80
+Sahil- 70
+Mohit- 70
+Mayank-	80
 
 #### Author:
 Akshat Tomar
+
+
+
+
 
 
 
